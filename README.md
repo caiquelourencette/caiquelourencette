@@ -18,11 +18,14 @@
           
  ## Github Stats
  
- <div>
-<a href="https://github.com/caiquelourencette">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquelourencette&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquelourencette&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquelourencette&theme=gotham)](https://github.com/caiquelourencette/github-readme-stats)
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquelourencette&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<div/>
+
+
+
 
 <!--
 **caiquelourencette/caiquelourencette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
