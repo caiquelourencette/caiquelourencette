@@ -5,7 +5,7 @@
 ## Basic information
 
 * 📍 Sorocaba - SP
-* 📫 You can contact me by: e-mail <caique_flr@hotmail.com> | LinkedIn <https://www.linkedin.com/in/caique-rosa/>
+* 📫 You can contact me by: e-mail <caique_flr@hotmail.com> | <a href="https://www.linkedin.com/in/caique-rosa">LinkedIn <a/>
 * 📚 Improving myself every day with technologies!
 
 
