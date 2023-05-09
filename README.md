@@ -5,6 +5,7 @@
 ## Basic information
 
 * 📍 Sorocaba - SP
+* 🖥️ See my portfolio at <a href="https://portfolio-mu-two-60.vercel.app/">Portfolio<a/>
 * 📫 You can contact me by: <a href="mailto:caique_flr@hotmail.com">e-mail</a> | <a href="https://www.linkedin.com/in/caique-rosa">LinkedIn <a/>
 * 📚 Improving myself every day with technologies!
 
